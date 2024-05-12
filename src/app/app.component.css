@@ -1,0 +1,26 @@
+.nav-bar {
+    background-color: #4a69bd;
+    height: 60px;
+    display: flex;
+    align-items: center;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.but {
+    margin-left: 1em;
+    margin-right: 1em;
+    background-color: #d9e5ff;
+    color: #5b71ae;
+    border: none;
+    border-radius: 20px;
+    padding: 8px 16px;
+    font-size: 14px;
+    font-weight: 500;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.but:hover {
+    background-color: #b2c7ff;
+}

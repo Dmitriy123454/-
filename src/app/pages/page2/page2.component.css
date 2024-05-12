@@ -1,0 +1,45 @@
+.but {
+    margin-top: 1em;
+    height: 50px;
+    width: 180px;
+    text-align: center;
+    color: #ffffff;
+    font-size: 18px;
+    background: #4267b2;
+    border: none;
+    border-radius: 25px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    transition: background-color 0.3s ease;
+    cursor: pointer;
+}
+
+.but:hover {
+    background-color: #334f8c;
+}
+
+.name,
+.Sname {
+    padding-top: 1em;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 16px;
+    color: #333333;
+}
+
+.back {
+    background-color: #f5f5f5;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #333333;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.polz {
+    font-size: 16px;
+    height: 30px;
+    background-color: #e9ecef;
+    border-radius: 4px;
+    padding: 8px 12px;
+    color: #333333;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
